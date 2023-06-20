@@ -103,7 +103,7 @@ export default {
 ### Step 7
 
 ```
-# Create / Edit pages/index.vue
+# Create or Edit pages/index.vue
 <template>
   <h1 class="text-3xl font-bold underline">
     Hello world!
@@ -113,5 +113,3 @@ export default {
 # Run the application
 $ npm run dev
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
