@@ -25,6 +25,7 @@ For detailed explanation on how things work, check out [documentation](https://n
 ## Step of Intalling Tailwind CSS for Nuxt 2
 
 - https://tailwindcss.com/docs/guides/nuxtjs#2
+- https://daisyui.com/docs/install/
 - https://stackblitz.com/github/nuxt/starter/tree/v2-stackblitz?file=README.md
 
 ### Step 1
